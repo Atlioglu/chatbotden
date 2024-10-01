@@ -1,0 +1,35 @@
+[
+    {
+      "genre": "horror",
+      "question": "The thrill of creepy and eerie atmospheres excites me."
+    },
+    {
+      "genre": "fantasy",
+      "question": "Immersing in worlds with magic and supernatural beings fascinates me."
+    },
+    {
+      "genre": "thriller",
+      "question": "I enjoy exploring unsolved mysteries or investigations."
+    },
+    {
+      "genre": "sciencefiction",
+      "question": "Future technologies and space travel are intriguing concepts."
+    },
+    {
+      "genre": "history",
+      "question": "Past eras and historical events captivate my interest."
+    },
+    {
+      "genre": "child",
+      "question": "Simple language and child-friendly themes are enjoyable."
+    },
+    {
+      "genre": "young",
+      "question": "Stories focusing on young people's experiences and challenges are exciting."
+    },
+    {
+      "genre": "philosophy",
+      "question": "Big questions about life and human existence intrigue me."
+    }
+  ]
+  

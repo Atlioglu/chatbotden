@@ -1,0 +1,10 @@
+{
+    "horror": 5,
+    "fantasy": 5,
+    "thriller": 4,
+    "sciencefiction": 3,
+    "history": 2,
+    "child": 1,
+    "young": 5,
+    "philosophy": 5
+}

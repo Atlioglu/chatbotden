@@ -1,0 +1,54 @@
+[
+    {
+        "title": "The Hobbit",
+        "recommendation": "strongly recommended"
+    },
+    {
+        "title": "Frankenstein or The Modern Prometheus",
+        "recommendation": "recommended"
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "recommendation": "recommended"
+    },
+    {
+        "title": "Dracula",
+        "recommendation": "recommended"
+    },
+    {
+        "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+        "recommendation": "recommended"
+    },
+    {
+        "title": "Carmilla",
+        "recommendation": "recommended"
+    },
+    {
+        "title": "The Great God Pan",
+        "recommendation": "recommended"
+    },
+    {
+        "title": "Tales of Terror and Mystery",
+        "recommendation": "recommended"
+    },
+    {
+        "title": "Carrie",
+        "recommendation": "recommended"
+    },
+    {
+        "title": "Brood of the Witch-Queen",
+        "recommendation": "recommended"
+    },
+    {
+        "title": "The Damned",
+        "recommendation": "recommended"
+    },
+    {
+        "title": "Misery",
+        "recommendation": "recommended"
+    },
+    {
+        "title": "It",
+        "recommendation": "recommended"
+    }
+]

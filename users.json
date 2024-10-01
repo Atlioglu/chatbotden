@@ -1,0 +1,366 @@
+{
+    "User": {
+        "The Catcher in the Rye": {
+            "rating": 4,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "1984": {
+            "rating": 3,
+            "category": "dystopian",
+            "read": true
+        },
+        "To Kill a Mockingbird": {
+            "rating": 2,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "The Great Gatsby": {
+            "rating": 1,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "Moby-Dick": {
+            "rating": 5,
+            "category": "adventure",
+            "read": true
+        },
+        "War and Peace": {
+            "rating": 4,
+            "category": "history",
+            "read": true
+        },
+        "Pride and Prejudice": {
+            "rating": null,
+            "category": "romance",
+            "read": true
+        },
+        "The Hobbit": {
+            "rating": null,
+            "category": "fantasy",
+            "read": true
+        },
+        "Jane Eyre": {
+            "rating": 3,
+            "category": "romance",
+            "read": true
+        },
+        "Wuthering Heights": {
+            "rating": null,
+            "category": "romance",
+            "read": true
+        }
+    },
+    "User2": {
+        "The Catcher in the Rye": {
+            "rating": 3,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "1984": {
+            "rating": 4,
+            "category": "dystopian",
+            "read": true
+        },
+        "To Kill a Mockingbird": {
+            "rating": null,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "The Great Gatsby": {
+            "rating": 5,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "Moby-Dick": {
+            "rating": 2,
+            "category": "adventure",
+            "read": true
+        },
+        "War and Peace": {
+            "rating": 4,
+            "category": "history",
+            "read": true
+        },
+        "Pride and Prejudice": {
+            "rating": null,
+            "category": "romance",
+            "read": true
+        },
+        "The Hobbit": {
+            "rating": 3,
+            "category": "fantasy",
+            "read": true
+        },
+        "Jane Eyre": {
+            "rating": 5,
+            "category": "romance",
+            "read": true
+        },
+        "Wuthering Heights": {
+            "rating": 4,
+            "category": "romance",
+            "read": true
+        }
+    },
+    "User3": {
+        "The Catcher in the Rye": {
+            "rating": null,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "1984": {
+            "rating": 4,
+            "category": "dystopian",
+            "read": true
+        },
+        "To Kill a Mockingbird": {
+            "rating": 5,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "The Great Gatsby": {
+            "rating": null,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "Moby-Dick": {
+            "rating": 3,
+            "category": "adventure",
+            "read": true
+        },
+        "War and Peace": {
+            "rating": 5,
+            "category": "history",
+            "read": true
+        },
+        "Pride and Prejudice": {
+            "rating": 4,
+            "category": "romance",
+            "read": true
+        },
+        "The Hobbit": {
+            "rating": null,
+            "category": "fantasy",
+            "read": true
+        },
+        "Jane Eyre": {
+            "rating": 3,
+            "category": "romance",
+            "read": true
+        },
+        "Wuthering Heights": {
+            "rating": 5,
+            "category": "romance",
+            "read": true
+        }
+    },
+    "User4": {
+        "The Catcher in the Rye": {
+            "rating": 2,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "1984": {
+            "rating": null,
+            "category": "dystopian",
+            "read": true
+        },
+        "To Kill a Mockingbird": {
+            "rating": 3,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "The Great Gatsby": {
+            "rating": 4,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "Moby-Dick": {
+            "rating": null,
+            "category": "adventure",
+            "read": true
+        },
+        "War and Peace": {
+            "rating": 3,
+            "category": "history",
+            "read": true
+        },
+        "Pride and Prejudice": {
+            "rating": 5,
+            "category": "romance",
+            "read": true
+        },
+        "The Hobbit": {
+            "rating": 2,
+            "category": "fantasy",
+            "read": true
+        },
+        "Jane Eyre": {
+            "rating": null,
+            "category": "romance",
+            "read": true
+        },
+        "Wuthering Heights": {
+            "rating": 4,
+            "category": "romance",
+            "read": true
+        }
+    },
+    "User5": {
+        "The Catcher in the Rye": {
+            "rating": null,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "1984": {
+            "rating": 3,
+            "category": "dystopian",
+            "read": true
+        },
+        "To Kill a Mockingbird": {
+            "rating": 4,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "The Great Gatsby": {
+            "rating": 2,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "Moby-Dick": {
+            "rating": 5,
+            "category": "adventure",
+            "read": true
+        },
+        "War and Peace": {
+            "rating": 4,
+            "category": "history",
+            "read": true
+        },
+        "Pride and Prejudice": {
+            "rating": null,
+            "category": "romance",
+            "read": true
+        },
+        "The Hobbit": {
+            "rating": 5,
+            "category": "fantasy",
+            "read": true
+        },
+        "Jane Eyre": {
+            "rating": 4,
+            "category": "romance",
+            "read": true
+        },
+        "Wuthering Heights": {
+            "rating": null,
+            "category": "romance",
+            "read": true
+        }
+    },
+    "User6": {
+        "The Catcher in the Rye": {
+            "rating": 3,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "1984": {
+            "rating": null,
+            "category": "dystopian",
+            "read": true
+        },
+        "To Kill a Mockingbird": {
+            "rating": 4,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "The Great Gatsby": {
+            "rating": 5,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "Moby-Dick": {
+            "rating": 2,
+            "category": "adventure",
+            "read": true
+        },
+        "War and Peace": {
+            "rating": null,
+            "category": "history",
+            "read": true
+        },
+        "Pride and Prejudice": {
+            "rating": 5,
+            "category": "romance",
+            "read": true
+        },
+        "The Hobbit": {
+            "rating": 4,
+            "category": "fantasy",
+            "read": true
+        },
+        "Jane Eyre": {
+            "rating": null,
+            "category": "romance",
+            "read": true
+        },
+        "Wuthering Heights": {
+            "rating": 3,
+            "category": "romance",
+            "read": true
+        }
+    },
+    "User7Sample": {
+        "The Catcher in the Rye": {
+            "rating": 5,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "1984": {
+            "rating": null,
+            "category": "dystopian",
+            "read": true
+        },
+        "To Kill a Mockingbird": {
+            "rating": 4,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "The Great Gatsby": {
+            "rating": 3,
+            "category": "sciencefiction",
+            "read": true
+        },
+        "Moby-Dick": {
+            "rating": 3,
+            "category": "adventure",
+            "read": true
+        },
+        "War and Peace": {
+            "rating": null,
+            "category": "history",
+            "read": true
+        },
+        "Pride and Prejudice": {
+            "rating": 5,
+            "category": "romance",
+            "read": true
+        },
+        "The Hobbit": {
+            "rating": 4,
+            "category": "fantasy",
+            "read": true
+        },
+        "Jane Eyre": {
+            "rating": null,
+            "category": "romance",
+            "read": true
+        },
+        "Wuthering Heights": {
+            "rating": 3,
+            "category": "romance",
+            "read": true
+        }
+    }
+}
